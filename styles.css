@@ -1,8 +1,8 @@
 body {
     margin: 0;
+    background: pink;
     background-image: url("bball.png");
-    background-color: pink;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
 }
