@@ -1,7 +1,21 @@
 body {
     margin: 0;
-    background: url("bball.png"), pink;
+    background: url("bball.png"), rgb(201, 111, 126);
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
+    color:#003b0d
 }
+
+div {
+    background: url("bball.png"), rgb(221, 117, 76);
+    color: rgb(9, 26, 11);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+  }
+
+  #inp {
+    text-align-last: center;
+    margin: auto;
+  }
