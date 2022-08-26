@@ -2,6 +2,6 @@ body {
     margin: 0;
     background: pink;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+    font-size: 48px;
 }
